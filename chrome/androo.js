@@ -12,7 +12,7 @@ function androo(){
     chrome.tts.speak(phrases[index],ttsOptions);
     alert(dialogs[index]);
     
-    setTimeout(androo,Math.random()*60*1000);
+    setTimeout(androo,Math.random()*30*1000);
 }
 
 setTimeout(androo,20000);
