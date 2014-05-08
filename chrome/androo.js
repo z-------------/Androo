@@ -5,7 +5,6 @@ function androo(){
     var index = Math.round(Math.random()*(phrases.length-1));
     
     var ttsOptions = {
-        lang: "en-US",
         gender: "male",
         rate: 0.7
     }
