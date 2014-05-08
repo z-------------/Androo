@@ -3,7 +3,14 @@ var dialogs = ["WERE U BORN IN A BARN???", "GET SUM WERK DUN", "Useless scrub...
 
 function doAlert(){
     var index = Math.round(Math.random()*(phrases.length-1));
-    chrome.tts.speak(phrases[index]);
+    
+    var ttsOptions = {
+        lang: "en-US",
+        gender: "male",
+        rate: 0.7
+    }
+    
+    chrome.tts.speak(phrases[index],ttsOptions);
     alert(dialogs[index]);
 }
 
