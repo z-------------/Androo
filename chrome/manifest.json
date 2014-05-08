@@ -7,7 +7,6 @@
         "tts"
     ],
     "background": {
-        "scripts": ["androo.js"],
-        "persistent": false
+        "scripts": ["androo.js"]
     }
 }
