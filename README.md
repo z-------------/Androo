@@ -20,3 +20,13 @@ Screenshots:
 #### Chrome
 
 ![Androo on Chrome](http://i.imgur.com/d0DnRlG.png)
+
+##### How to disable
+
+###### Windows
+
+WHY WOULD YOU DO THAT SCRUB? HOW DARE YOU REJECT THE WISE WORDS OF SIR ANDREW? Anyway, if you want to be a pathetic twerp, you can disable this in Task Manager (Ctrl-Alt-Del you n00by scrub):
+
+![Be a traitor Windows](http://i.imgur.com/gtFjZi9.png)
+
+Go to the "Processes" tab, find cscript.exe or wscript.exe and end the process. Done. You are now officially a pathetic traitor.
