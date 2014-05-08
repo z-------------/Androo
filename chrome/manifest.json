@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "Androo",
+    "description": "Gyt sum werk dun",
+    "version": "0.1",
+    "permissions": [
+        "tts"
+    ],
+    "background": {
+        "scripts": ["androo.js"],
+        "persistent": false
+    }
+}
