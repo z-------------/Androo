@@ -1,5 +1,5 @@
 Dim Phrases
-Phrases = Array("Oy!","Get sum werk dun","Stop jacking off","Are you born in a water park?","Later, shizlord","Are you born in a barn?","I'll bust your chops","You should know when to give up","You're so pathetic","How will this help your future career","Ugh Ug Uh Guh Gug Guh Gugh Huh")
+Phrases = Array("Oy!","Get sum werk dun","Stop jacking off","Are you born in a water park?","Later, shizlord","Are you born in a barn?","I'll bust your chops","You should know when to give up","You're so pathetic","How will this help your future career?","Ugh Ug Uh Guh Gug Guh Gugh Huh")
 Dim Titles
 Titles = Array("*snaps fingers*","UGHHHHHH SCRUB","*shakes head*","BURRRRPPP","And stop fapping around")
 Dim Remarks
