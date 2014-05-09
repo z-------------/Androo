@@ -36,7 +36,10 @@ Go to the "Processes" tab, find cscript.exe or wscript.exe and end the process. 
 ![Be a traitor Mac](http://i.imgur.com/o2ZA46g.png)
 
 Open the Force Quit window (Alt+Cmd+Esc you twerp) and force quit "Androo".
+Apparently, you can also click "Cancel" on the dialog box.
 
 ###### Mac (scpt)
+
+![Be a traiter Mac AppleScript](http://i.imgur.com/wTdt5qF.png)
 
 Just click the damn "Stop" button you pathetic shizlord.
