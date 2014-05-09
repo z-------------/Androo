@@ -1,5 +1,5 @@
-var phrases = ["Were you born in a barn?", "Get some work done.", "Useless scrub.", "Stop jacking off.", "I'll bust your chops.", "Are you born in a water park?", "Stop fapping around.", "Are you born in a barn?", "Later, shizlord.", "Oy!", "Urh, scrub!"];
-var dialogs = ["WERE U BORN IN A BARN???", "GET SUM WERK DUN", "Useless scrub...", "Stop jacking off", "I'LL BUST YOUR CHOPS", "R U BORN IN A WATER PARK??", "Stop fapping around", "R U BORN IN A BARN???", "LATER, SHIZLORD", "OI!!", "URGHHHH SCRUB!!!"];
+var phrases = ["Were you born in a barn?", "Get some work done.", "Useless scrub.", "Stop jacking off.", "I'll bust your chops.", "Are you born in a water park?", "Stop fapping around.", "Are you born in a barn?", "Later, shizlord.", "Oy!", "Urh, scrub!", "Excuse me?"];
+var dialogs = ["WERE U BORN IN A BARN???", "GET SUM WERK DUN", "Useless scrub...", "Stop jacking off", "I'LL BUST YOUR CHOPS", "R U BORN IN A WATER PARK??", "Stop fapping around", "R U BORN IN A BARN???", "LATER, SHIZLORD", "OI!!", "URGHHHH SCRUB!!!", "ESCUUUUSE MEEEE"];
 var remarks = ["Scrub", "Useless twerp", "Uhh Uhh Uhh", "Uhh"];
 
 function androo(){
