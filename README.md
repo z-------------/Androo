@@ -3,7 +3,7 @@
 ### "Gyt sum werk dun"
 > -- *Sir Dr Andrew Mui, PhD, ScD, BBA, MD, OMG, OCD, HIV*
 
-A personal PC/Mac/Chrome assistant/advisor which gives you helpful advice on life every **whopping** 3 seconds. It is even more helpful than the world-famous Microsoft Bob, Clippy, or the Microsoft Office Assistant.
+A personal PC/Mac/Chrome assistant/advisor which gives you helpful advice on life every **whopping** 10 seconds. It is even more helpful than the world-famous Microsoft Bob, Clippy, or the Microsoft Office Assistant.
 
 Inspired by the lovely, inspirational quotes by our fellow colleague Sir Dr Andrew Mui, PhD, ScD, BBA, MD, OMG, OCD, HIV; Captain of Scrub Airlines' Flight 370, which goes from Yeya International Yeyairport to Shizlord International Airport in Nottabarn City, Muiahland, where dreams come true thanks to the "Stop fapping around" and "Get sum werk dun" philosophy of the Nation (with of course, our dear Andrew Mui leading the way). The citizens there ask themselves "How will this help your future career?", futher gripping on their path to success.
 
@@ -25,8 +25,18 @@ Screenshots:
 
 ###### Windows
 
-WHY WOULD YOU DO THAT SCRUB? HOW DARE YOU REJECT THE WISE WORDS OF SIR ANDREW? Anyway, if you want to be a pathetic twerp, you can disable this in Task Manager (Ctrl-Alt-Del you n00by scrub):
+WHY WOULD YOU DO THAT SCRUB? HOW DARE YOU REJECT THE WISE WORDS OF SIR ANDREW? Anyway, if you want to be a pathetic twerp, you can disable this in Task Manager (Ctrl+Alt+Del you n00by scrub):
 
 ![Be a traitor Windows](http://i.imgur.com/gtFjZi9.png)
 
 Go to the "Processes" tab, find cscript.exe or wscript.exe and end the process. Done. You are now officially a pathetic traitor.
+
+###### Mac (app)
+
+![Be a traitor Mac](http://i.imgur.com/o2ZA46g.png)
+
+Open the Force Quit window (Alt+Cmd+Esc you twerp) and force quit "Androo".
+
+###### Mac (scpt)
+
+Just click the damn "Stop" button you pathetic shizlord.
