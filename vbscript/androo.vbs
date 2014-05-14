@@ -10,7 +10,7 @@ Remarks = Array("Scrub","Useless twerp","Uhh Uhh Uhh","Uhh")
 Set Voice = CreateObject("SAPI.SpVoice")
      with Voice
        Set .Voice = .getvoices.item(0)
-       .Rate = -2
+       .Rate = -3
    end with
 
 Do
